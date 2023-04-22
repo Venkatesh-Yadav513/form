@@ -197,4 +197,12 @@ pointer-events: none;
     opacity:0.8;
 
 }
-
+.box form p a{
+    color:crimson;
+ }
+ .box form p{
+    margin-top: 10px;
+    font-size: 15px;
+    color:#fff;
+ }
+ 
